@@ -24,7 +24,7 @@ Education
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/bjtu.png" alt="Beijing Jiaotong University Logo" style="width: 80px; height: auto;"/>
+  <img src="images/bjtu.png" alt="Beijing Jiaotong University Logo" style="width: 90px; height: auto;"/>
   <div>
     <strong>Beijing Jiaotong University</strong><br>
     School of Electronic and Information Engineering<br>
