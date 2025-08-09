@@ -16,7 +16,7 @@ Education
 School of Cyber Science and Engineering 
 2025.09 ~ Current: Cybersecurity, Graduate student  
 
-![Beijing Jiaotong University Logo](images/bjtu.png)  
+![Beijing Jiaotong University Logo](images/bjtu.png) 
 **Beijing Jiaotong University**  
 School of Electronic and Information Engineering  
 2021.09 ~ 2025.06: Information Engineering, Master's Student
