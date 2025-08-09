@@ -43,23 +43,24 @@ I have been fortunately interning and collaborating with:
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/thu.png" alt="thu Logo" style="width: 80px; height: auto;"/>
-  <div>
-    <strong>Tsinghua University</strong><br>
-    School of Vehicle and Mobility- Research Group of Associate Researcher Wang Hong, 2024.05 ~ 2024.11
-  </div>
-</div>
-<div style="display: flex; align-items: center; gap: 20px;">
   <img src="images/cec.png" alt="CEC Logo" style="width: 80px; height: auto;"/>
   <div>
     <strong>CEC</strong><br>
     Intelligent Applications Research and Development Center - Large Model Data Development Group, 2025.01 ~ 2025.02
   </div>
 </div>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/thu.png" alt="thu Logo" style="width: 80px; height: auto;"/>
+  <div>
+    <strong>Tsinghua University</strong><br>
+    School of Vehicle and Mobility- Research Group of Associate Researcher Wang Hong, 2024.05 ~ 2024.11
+  </div>
+</div>
 
 News
 ------
 [2025.07.27] One paper is under review by IMAVIS 2025!
+<br>
 [2025.05.06] One patent is publicly released!
 
 Publication
