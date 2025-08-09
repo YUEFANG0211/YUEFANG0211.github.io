@@ -24,11 +24,12 @@ School of Electronic and Information Engineering
 Experience
 ======
 I have been fortunately interning and collaborating with:
-(NIO.png)  
+
+![NIO Logo](NIO.png)  
 **NIO**  
 Data Algorithms Department - Vehicle-end Mining Group, 2025.02 ~ 2025.06 
 
-(cec.png)  
+![CEC Logo](cec.png)  
 **CEC**  
 Intelligent Applications Research and Development Center - Large Model Data Development Group, 2025.01 ~ 2025.02
 
