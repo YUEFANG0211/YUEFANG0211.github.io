@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yue Fang / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yue Fang"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yue Fang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Graduate student at Southeast University specializing in AI safety—with a focus on multimodal large model hallucinations—and autonomous driving algorithms."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
