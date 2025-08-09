@@ -10,7 +10,7 @@ I am Yue Fang (方悦), a first-year graduate student at the School of Cyber Sci
 <br>
 I have long been dedicated to research on multimodal large language models (MLLMs) and have engaged in multiple MLLM-related projects in areas such as autonomous driving. Currently, I am interested in the detection and mitigation of hallucinations in MLLMs.  Feel free to contact yuefang979@gmail.com.
 <br>
-You can find my CV here: [CV of Fang Yue](../assets/YueFang_CV.pdf)
+You can find my CV here: [Fang Yue](../assets/YueFang_CV.pdf)
 
 Education
 ------
@@ -64,7 +64,7 @@ Publication
   <div>
     <strong>Sarah: Hallucination Detection for Large Vision Language Models with Semantic
 Information Locator and Purifier in Uncertainty Quantification Method</strong><br>
-    <strong>Fang Yue</strong>, Zhang Yang, Liu Yawen, Yu Yetian
+    <strong>Fang Yue</strong>, Zhang Yang, Liu Yawen, Yu Yetian<br>.
     IMAVIS2025
   </div>
 </div>
