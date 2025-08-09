@@ -6,20 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am Yue Fang (方悦), a first-year graduate student at the School of Cyber Science and Engineering, Southeast University advised by Zhang Jing.
+I have long been dedicated to research on multimodal large language models (MLLMs) and have engaged in multiple MLLM-related projects in areas such as autonomous driving. Currently, I am interested in the detection and mitigation of hallucinations in MLLMs.  Feel free to contact yuefang979@gmail.com.
 
-I am a first-year graduate student at the School of Cyber Science and Engineering, Southeast University advised by Zhang Jing.
-I have long maintained a strong interest in multimodal AI technologies, especially multimodal large language models, and have also engaged in multiple hands-on projects in areas such as autonomous driving. Recently, I am interested in the detection and mitigation of hallucinations in multimodal large language models. Feel free to reach out at Feel free to contact (yuefang979 at gmail.com).
-
-A data-driven personal website.
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+![Peking University Logo](peking_university_logo.png)  
+**Peking University**  
+School of Computer Science  
+2022.09 ~ Current: PhD student  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+![Jilin University Logo](jilin_university_logo.png)  
+**Jilin University**  
+School of Software, Honours degree  
+2018.09 ~ 2022.06: Software Engineering, Pilot Class
 
 Getting started
 ======
