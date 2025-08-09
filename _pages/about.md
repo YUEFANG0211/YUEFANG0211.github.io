@@ -63,8 +63,10 @@ Publication
   <img src="images/sarah.png" alt="CEC Logo" style="width: 200px; height: auto;"/>
   <div>
     <strong>Sarah: Hallucination Detection for Large Vision Language Models with Semantic
-Information Locator and Purifier in Uncertainty Quantification Method</strong><br>
-    <strong>Fang Yue</strong>, Zhang Yang, Liu Yawen, Yu Yetian<br>.
+Information Locator and Purifier in Uncertainty Quantification Method</strong>
+    <br>
+    <strong>Fang Yue</strong>, Zhang Yang, Liu Yawen, Yu Yetian.
+    <br>
     IMAVIS2025
   </div>
 </div>
@@ -76,6 +78,7 @@ Patent
   <div>
     <strong>A Target Detection Method and Device Based on an Incremental Learning Perception Model</strong><br>
     Li Zhiwei, Zhang Zhiyu, Zhou Yang, <strong>Fang Yue</strong>, Liu Jingshuo, Cai Leyan, Wang Kunfeng, Li Hui, Shen Tianyu, Wang Jingwei
+    <br>
     Invention Patent, CN202411715425
   </div>
 </div>
