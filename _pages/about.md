@@ -11,10 +11,15 @@ I have long been dedicated to research on multimodal large language models (MLLM
 
 Education
 ======
-![Southeast University Logo](images/seu0.png)  
-**Southeast University**  
-School of Cyber Science and Engineering 
-2025.09 ~ Current: Cybersecurity, Graduate student  
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/seu0.png" alt="Southeast University Logo" style="width: 100px; height: auto;"/>
+  
+  <div>
+    **Southeast University**  
+    School of Cyber Science and Engineering  
+    2025.09 ~ Current: Cybersecurity, Graduate student
+  </div>
+</div>
 
 ![Beijing Jiaotong University Logo](images/bjtu.png) 
 **Beijing Jiaotong University**  
