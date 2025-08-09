@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Yue Fang (方悦), a first-year graduate student at the School of Cyber Science and Engineering, Southeast University advised by Zhang Jing.
-<br>
-I have long been dedicated to research on multimodal large language models (MLLMs) and have engaged in multiple MLLM-related projects in areas such as autonomous driving. Currently, I am interested in the detection and mitigation of hallucinations in MLLMs. Feel free to contact (yuefang979@gmail.com).
+I am Yue Fang (方悦), a first-year graduate student at the School of Cyber Science and Engineering, Southeast University advised by Zhang Jing.I have long been dedicated to research on **multimodal large language models (MLLMs)** and have engaged in multiple MLLM-related **autonomous driving** projects. Currently, I am interested in **the detection and mitigation of hallucinations in MLLMs**. 
 <br>
 You can find my CV here: [Fang Yue](../assets/YueFang_CV.pdf)
+<br>
+Feel free to contact (yuefang979@gmail.com, 1206137707@qq.com)!
 
 Education
 ------
@@ -42,7 +42,13 @@ I have been fortunately interning and collaborating with:
     Data Algorithms Department - Vehicle-end Mining Group, 2025.02 ~ 2025.06 
   </div>
 </div>
-
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/thu.png" alt="thu Logo" style="width: 80px; height: auto;"/>
+  <div>
+    <strong>Tsinghua University</strong><br>
+    School of Vehicle and Mobility- Research Group of Associate Researcher Wang Hong, 2024.05 ~ 2024.11
+  </div>
+</div>
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="images/cec.png" alt="CEC Logo" style="width: 80px; height: auto;"/>
   <div>
