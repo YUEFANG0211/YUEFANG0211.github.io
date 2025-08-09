@@ -67,7 +67,7 @@ Publication
 ------
 (*indicates equal contribution)
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/sarah.png" alt="CEC Logo" style="width: 200px; height: auto;"/>
+  <img src="images/sarah.png" alt="sarah Logo" style="width: 200px; height: auto;"/>
   <div>
     <strong>Sarah: Hallucination Detection for Large Vision Language Models with Semantic
 Information Locator and Purifier in Uncertainty Quantification Method</strong>
