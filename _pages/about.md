@@ -50,7 +50,7 @@ I have been fortunately interning and collaborating with:
   </div>
 </div>
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/thu.png" alt="thu Logo" style="width: 70px; height: auto;"/>
+  <img src="images/thu.png" alt="thu Logo" style="width: 80px; height: auto;"/>
   <div>
     <strong>Tsinghua University</strong><br>
     School of Vehicle and Mobility- Research Group of Associate Researcher Wang Hong, 2024.05 ~ 2024.11
