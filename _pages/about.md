@@ -32,14 +32,21 @@ Education
 Experience
 ======
 I have been fortunately interning and collaborating with:
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 15px;">
+  <img src="images/nio.png" alt="NIO Logo" style="width: 80px; height: auto;"/>
+  <div>
+    <strong>NIO</strong><br>
+    Data Algorithms Department - Vehicle-end Mining Group, 2025.02 ~ 2025.06 
+  </div>
+</div>
 
-![NIO Logo](images/nio.png)  
-**NIO**  
-Data Algorithms Department - Vehicle-end Mining Group, 2025.02 ~ 2025.06 
-
-![CEC Logo](images/cec.png)  
-**CEC**  
-Intelligent Applications Research and Development Center - Large Model Data Development Group, 2025.01 ~ 2025.02
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/cec.png" alt="CEC Logo" style="width: 80px; height: auto;"/>
+  <div>
+    <strong>CEC</strong><br>
+    Intelligent Applications Research and Development Center - Large Model Data Development Group, 2025.01 ~ 2025.02
+  </div>
+</div>
 
 Site-wide configuration
 ------
