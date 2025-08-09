@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 I am Yue Fang (方悦), a first-year graduate student at the School of Cyber Science and Engineering, Southeast University advised by Zhang Jing.
+<br>
 I have long been dedicated to research on multimodal large language models (MLLMs) and have engaged in multiple MLLM-related projects in areas such as autonomous driving. Currently, I am interested in the detection and mitigation of hallucinations in MLLMs.  Feel free to contact yuefang979@gmail.com.
+<br>
 You can find my CV here: [CV of Fang Yue](../assets/YueFang_CV.pdf)
 
 Education
@@ -51,23 +53,32 @@ I have been fortunately interning and collaborating with:
 
 News
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[2025.07.27] One paper is under review by IMAVIS 2025!
+[2025.05.06] One patent is publicly released!
 
 Publication
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+(*indicates equal contribution)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/sarah.png" alt="CEC Logo" style="width: 80px; height: auto;"/>
+  <div>
+    <strong>Sarah: Hallucination Detection for Large Vision Language Models with Semantic
+Information Locator and Purifier in Uncertainty Quantification Method</strong><br>
+    <strong>Fang Yue</strong>strong>, Zhang Yang, Liu Yawen, Yu Yetian
+    IMAVIS2025
+  </div>
+</div>
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Patent
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/meta.png" alt="CEC Logo" style="width: 80px; height: auto;"/>
+  <div>
+    <strong>A Target Detection Method and Device Based on an Incremental Learning Perception Model</strong><br>
+    Li Zhiwei, Zhang Zhiyu, Zhou Yang, <strong>Fang Yue</strong>strong>, Liu Jingshuo, Cai Leyan, Wang Kunfeng, Li Hui, Shen Tianyu, Wang Jingwei
+    Invention Patent, CN202411715425
+  </div>
+</div>
 
 For more info
 ------
