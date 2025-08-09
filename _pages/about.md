@@ -15,22 +15,31 @@ Education
   <img src="images/seu0.png" alt="Southeast University Logo" style="width: 100px; height: auto;"/>
   
   <div>
-    **Southeast University**  
+    **Southeast University** 
+    
     School of Cyber Science and Engineering  
+    
     2025.09 ~ Current: Cybersecurity, Graduate student
   </div>
 </div>
 
-![Beijing Jiaotong University Logo](images/bjtu.png) 
-**Beijing Jiaotong University**  
-School of Electronic and Information Engineering  
-2021.09 ~ 2025.06: Information Engineering, Master's Student
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/bjtu.png" alt="Beijing Jiaotong University Logo" style="width: 100px; height: auto;"/>
+  
+  <div>
+    **Beijing Jiaotong University**
+    
+    School of Electronic and Information Engineering  
+    
+    2021.09 ~ 2025.06: Information Engineering, Master's Student
+  </div>
+</div>
 
 Experience
 ======
 I have been fortunately interning and collaborating with:
 
-![NIO Logo](images/NIO.png)  
+![NIO Logo](images/nio.png)  
 **NIO**  
 Data Algorithms Department - Vehicle-end Mining Group, 2025.02 ~ 2025.06 
 
