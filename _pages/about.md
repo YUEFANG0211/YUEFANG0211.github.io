@@ -11,12 +11,12 @@ I have long been dedicated to research on multimodal large language models (MLLM
 
 Education
 ======
-![Southeast University Logo](seu0.png)  
+![Southeast University Logo](images/seu0.png)  
 **Southeast University**  
 School of Cyber Science and Engineering 
 2025.09 ~ Current: Cybersecurity, Graduate student  
 
-![Beijing Jiaotong University Logo](bjtu.png)  
+![Beijing Jiaotong University Logo](images/bjtu.png)  
 **Beijing Jiaotong University**  
 School of Electronic and Information Engineering  
 2021.09 ~ 2025.06: Information Engineering, Master's Student
@@ -25,11 +25,11 @@ Experience
 ======
 I have been fortunately interning and collaborating with:
 
-![NIO Logo](NIO.png)  
+![NIO Logo](images/NIO.png)  
 **NIO**  
 Data Algorithms Department - Vehicle-end Mining Group, 2025.02 ~ 2025.06 
 
-![CEC Logo](cec.png)  
+![CEC Logo](images/cec.png)  
 **CEC**  
 Intelligent Applications Research and Development Center - Large Model Data Development Group, 2025.01 ~ 2025.02
 
