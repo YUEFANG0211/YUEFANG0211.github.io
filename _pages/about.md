@@ -74,7 +74,7 @@ Information Locator and Purifier in Uncertainty Quantification Method</strong>
     <br>
     <strong>Fang Yue</strong>, Zhang Yang, Liu Yawen, Yu Yetian.
     <br>
-    IMAVIS2025 | [[code](https://github.com/YUEFANG0211/Sarah)]
+    IMAVIS2025 | <a href="https://github.com/YUEFANG0211/Sarah">code</a>
   </div>
 </div>
 
