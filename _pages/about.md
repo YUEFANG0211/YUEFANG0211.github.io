@@ -60,7 +60,7 @@ Publication
 ------
 (*indicates equal contribution)
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/sarah.png" alt="CEC Logo" style="width: 80px; height: auto;"/>
+  <img src="images/sarah.png" alt="CEC Logo" style="width: 120px; height: auto;"/>
   <div>
     <strong>Sarah: Hallucination Detection for Large Vision Language Models with Semantic
 Information Locator and Purifier in Uncertainty Quantification Method</strong><br>
@@ -72,7 +72,7 @@ Information Locator and Purifier in Uncertainty Quantification Method</strong><b
 Patent
 ------
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/meta.png" alt="CEC Logo" style="width: 80px; height: auto;"/>
+  <img src="images/meta.png" alt="increminal Logo" style="width: 120px; height: auto;"/>
   <div>
     <strong>A Target Detection Method and Device Based on an Incremental Learning Perception Model</strong><br>
     Li Zhiwei, Zhang Zhiyu, Zhou Yang, <strong>Fang Yue</strong>strong>, Liu Jingshuo, Cai Leyan, Wang Kunfeng, Li Hui, Shen Tianyu, Wang Jingwei
