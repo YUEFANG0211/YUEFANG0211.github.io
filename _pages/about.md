@@ -11,24 +11,26 @@ I have long been dedicated to research on multimodal large language models (MLLM
 
 Education
 ======
-![Peking University Logo](peking_university_logo.png)  
-**Peking University**  
-School of Computer Science  
-2022.09 ~ Current: PhD student  
+(seu0.png)  
+**Southeast University**  
+School of Cyber Science and Engineering 
+2025.09 ~ Current: Cybersecurity, Graduate student  
 
-![Jilin University Logo](jilin_university_logo.png)  
-**Jilin University**  
-School of Software, Honours degree  
-2018.09 ~ 2022.06: Software Engineering, Pilot Class
+(bjtu.png)  
+**Beijing Jiaotong University**  
+School of Electronic and Information Engineering  
+2021.09 ~ 2025.06: Information Engineering, Master Student
 
-Getting started
+Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I have been fortunately interning and collaborating with:
+(NIO.png)  
+**NIO**  
+Data Algorithms Department - Vehicle-end Mining Group, 2025.02 ~ 2025.06 
+
+(cec.png)  
+**CEC**  
+Intelligent Applications Research and Development Center - Large Model Data Development Group, 2025.01 ~ 2025.02
 
 Site-wide configuration
 ------
