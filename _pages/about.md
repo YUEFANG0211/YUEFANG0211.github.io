@@ -8,6 +8,7 @@ redirect_from:
 ---
 I am Yue Fang (方悦), a first-year graduate student at the School of Cyber Science and Engineering, Southeast University advised by Zhang Jing.
 I have long been dedicated to research on multimodal large language models (MLLMs) and have engaged in multiple MLLM-related projects in areas such as autonomous driving. Currently, I am interested in the detection and mitigation of hallucinations in MLLMs.  Feel free to contact yuefang979@gmail.com.
+You can find my CV here: [CV of Fang Yue](../assets/YueFang_CV.pdf)
 
 Education
 ------
