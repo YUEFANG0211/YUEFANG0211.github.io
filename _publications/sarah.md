@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-10-01
-venue: 'Journal 1'
+venue: 'IMAVIS'
 slidesurl: 'http://yuefang0211.github.io/files/sarah_slide.pdf'
 paperurl: 'http://yuefang0211.github.io/files/sarah.pdf'
 bibtexurl: 'http://yuefang0211.github.io/files/bibtex1.bib'
