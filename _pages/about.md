@@ -11,6 +11,15 @@ I have long been dedicated to research on multimodal large language models (MLLM
 
 Education
 ======
+<table>
+<tr>
+<td><img src="seu0.png" alt="Southeast University Logo" width="60"></td>
+<td>
+<strong>Southeast University</strong><br>
+School of Cyber Science and Engineering <br>
+2025.09 ~ Current: Cybersecurity, Graduate student  
+</td>
+</tr>
 (seu0.png)  
 **Southeast University**  
 School of Cyber Science and Engineering 
