@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "YUEFANG0211.github.io/images/profile.png"
+  avatar           : "profile.png"
   name             : "Yue Fang"
   pronouns         : # example: "she/her"  
-  bio              : "AI safety (especially hallucination of MLLMs) & Autonomous Driving"
+  bio              : "AI safety & Autonomous Driving"
   location         : "Nanjing,China"
   employer         : "Southeast University"
   uri              : # URL
