@@ -12,25 +12,19 @@ I have long been dedicated to research on multimodal large language models (MLLM
 Education
 ======
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/seu0.png" alt="Southeast University Logo" style="width: 100px; height: auto;"/>
-  
+  <img src="images/seu0.png" alt="Southeast University Logo" style="width: 80px; height: auto;"/>
   <div>
     **Southeast University** 
-    
     School of Cyber Science and Engineering  
-    
     2025.09 ~ Current: Cybersecurity, Graduate student
   </div>
 </div>
-
+<br>
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/bjtu.png" alt="Beijing Jiaotong University Logo" style="width: 100px; height: auto;"/>
-  
+  <img src="images/bjtu.png" alt="Beijing Jiaotong University Logo" style="width: 80px; height: auto;"/
   <div>
     **Beijing Jiaotong University**
-    
     School of Electronic and Information Engineering  
-    
     2021.09 ~ 2025.06: Information Engineering, Master's Student
   </div>
 </div>
