@@ -10,7 +10,7 @@ I am Yue Fang (方悦), a first-year graduate student at the School of Cyber Sci
 I have long been dedicated to research on multimodal large language models (MLLMs) and have engaged in multiple MLLM-related projects in areas such as autonomous driving. Currently, I am interested in the detection and mitigation of hallucinations in MLLMs.  Feel free to contact yuefang979@gmail.com.
 
 Education
-======
+------
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 15px;">
   <img src="images/seu0.png" alt="Southeast University Logo" style="width: 80px; height: auto;"/>
   <div>
@@ -30,7 +30,7 @@ Education
 </div>
 
 Experience
-======
+------
 I have been fortunately interning and collaborating with:
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 15px;">
   <img src="images/nio.png" alt="NIO Logo" style="width: 80px; height: auto;"/>
@@ -48,11 +48,11 @@ I have been fortunately interning and collaborating with:
   </div>
 </div>
 
-Site-wide configuration
+News
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+Publication
 ------
 For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
