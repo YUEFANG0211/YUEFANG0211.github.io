@@ -31,7 +31,7 @@ Large Vision-Language Models (LVLMs) have demonstrated remarkable potential in m
 
 <!-- ===== 多媒体展示：图片（含题注） ===== -->
 <figure style="margin: 1.5rem 0;">
-  <img src="/assets/images/总框架.png" alt="Sarah framework overview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+  <img src="/images/总框架.png" alt="Sarah framework overview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
     Fig1. Overview of the Sarah framework for hallucination detection in LVLMs.
   </figcaption>
@@ -43,7 +43,7 @@ Large Vision-Language Models (LVLMs) have demonstrated remarkable potential in m
 
 <!-- ===== 多媒体展示：图片（含题注） ===== -->
 <figure style="margin: 1.5rem 0;">
-  <img src="/assets/images/检测结果.png" alt="Detection Performance" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+  <img src="/images/检测结果.png" alt="Detection Performance" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
     Fig.2 Comparison with state-of-the-arts on free-form benchmark (MSCOCO-Cap and Bingo) for LVLMs hallucination detection. 
   </figcaption>
@@ -55,7 +55,7 @@ Large Vision-Language Models (LVLMs) have demonstrated remarkable potential in m
 
 <!-- ===== 多媒体展示：图片（含题注） ===== -->
 <figure style="margin: 1.5rem 0;">
-  <img src="/assets/images/耗时对比.png" alt="Time Consume" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+  <img src="/images/耗时对比.png" alt="Time Consume" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
     Fig3. Resource consumption across diverse hallucination detection methods. This analysis evaluates whether a detection method requires (1) multi-round reasoning and (2) image inputs, both of which significantly affect GPU memory requirements. The actual iteration time for each method is also provided in the table.
   </figcaption>
