@@ -69,8 +69,7 @@ Publication
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="images/sarah.png" alt="sarah Logo" style="width: 200px; height: auto;"/>
   <div>
-    <strong>Sarah: Hallucination Detection for Large Vision Language Models with Semantic
-Information Locator and Purifier in Uncertainty Quantification Method</strong>
+    <strong><a href="/publication/sarah">Sarah: Hallucination Detection for Large Vision Language Models with Semantic Information Locator and Purifier in Uncertainty Quantification Method</a></strong>
     <br>
     <strong>Fang Yue</strong>, Zhang Yang, Liu Yawen, Yu Yetian.
     <br>
