@@ -83,6 +83,7 @@ Patent
   <img src="images/meta.png" alt="increminal Logo" style="width: 200px; height: auto;"/>
   <div>
     <strong><a href="https://pss-system.cponline.cnipa.gov.cn/retrieveList?prevPageTit=changgui" target="_blank" rel="noopener noreferrer">A Target Detection Method and Device Based on an Incremental Learning Perception Model</a></strong>
+    <br>
     Li Zhiwei, Zhang Zhiyu, Zhou Yang, <strong>Fang Yue</strong>, Liu Jingshuo, Cai Leyan, Wang Kunfeng, Li Hui, Shen Tianyu, Wang Jingwei
     <br>
     Invention Patent, CN202411715425
