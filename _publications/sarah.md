@@ -31,8 +31,32 @@ Large Vision-Language Models (LVLMs) have demonstrated remarkable potential in m
 
 <!-- ===== 多媒体展示：图片（含题注） ===== -->
 <figure style="margin: 1.5rem 0;">
-  <img src="/assets/images/sarah_overview.png" alt="Sarah framework overview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+  <img src="/assets/images/总框架.png" alt="Sarah framework overview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
-    图 2：Sarah 框架概览示意图（示例占位，替换为实际图片与题注）
+    Fig1. Overview of the Sarah framework for hallucination detection in LVLMs.
+  </figcaption>
+</figure>
+
+<!-- 正文占位（可替换为实际内容） -->
+
+这里是一段正文内容（待定）。可在此处补充视频与图像之间的说明性文字，例如：对实验设置、可视化含义或用户交互流程的简要描述。
+
+<!-- ===== 多媒体展示：图片（含题注） ===== -->
+<figure style="margin: 1.5rem 0;">
+  <img src="/assets/images/检测结果.png" alt="Detection Performance" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+  <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
+    Fig.2 Comparison with state-of-the-arts on free-form benchmark (MSCOCO-Cap and Bingo) for LVLMs hallucination detection. 
+  </figcaption>
+</figure>
+
+<!-- 正文占位（可替换为实际内容） -->
+
+这里是一段正文内容（待定）。可在此处补充视频与图像之间的说明性文字，例如：对实验设置、可视化含义或用户交互流程的简要描述。
+
+<!-- ===== 多媒体展示：图片（含题注） ===== -->
+<figure style="margin: 1.5rem 0;">
+  <img src="/assets/images/耗时对比.png" alt="Time Consume" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+  <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
+    Fig3. Resource consumption across diverse hallucination detection methods. This analysis evaluates whether a detection method requires (1) multi-round reasoning and (2) image inputs, both of which significantly affect GPU memory requirements. The actual iteration time for each method is also provided in the table.
   </figcaption>
 </figure>
