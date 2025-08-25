@@ -2,7 +2,7 @@
 title: "Sarah: Hallucination Detection for Large Vision Language Models with Semantic Information Locator and Purifier in Uncertainty Quantification Method"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-10-01-paper-title-number-1
+permalink: /publication/sarah
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-10-01
 venue: 'IMAVIS'
@@ -16,7 +16,7 @@ Sarah (Hallucination Detection for Large Vision Language Models with Semantic In
 <!-- ===== 多媒体展示：视频（含题注） ===== -->
 <figure style="margin: 1.5rem 0;">
   <video controls preload="metadata" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);">
-    <source src="/assets/videos/sarah_demo.mp4" type="video/mp4" />
+    <source src="/images/sarah_demo.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
@@ -56,5 +56,17 @@ It has also  significantly enhanced cost-effectiveness (requires only 1/25 of th
   <img src="/images/耗时对比.png" alt="Time Consume" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
     Fig4. Resource consumption across diverse hallucination detection methods. This analysis evaluates whether a detection method requires (1) multi-round reasoning and (2) image inputs, both of which significantly affect GPU memory requirements. The actual iteration time for each method is also provided in the table.
+  </figcaption>
+</figure>
+
+<!-- 正文占位（可替换为实际内容） -->
+
+Analysis over LVLMs further exposes critical limitations: over 13.4% of outputs from state-of-the-art LVLMs exhibit hallucination, which leaves room for future improvements.
+
+<!-- ===== 多媒体展示：图片（含题注） ===== -->
+<figure style="margin: 1.5rem 0;">
+  <img src="/images/模型对比.png" alt="Time Consume" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
+  <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
+    Fig5. Hallucination rate of different LVLMs based on Sarah.
   </figcaption>
 </figure>
