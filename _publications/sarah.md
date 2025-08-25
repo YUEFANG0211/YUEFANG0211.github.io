@@ -12,11 +12,20 @@ paperurl: 'http://yuefang0211.github.io/files/sarah1.pdf'
 bibtexurl: 'http://yuefang0211.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+<style>
+  /* 将本页题注统一居中，正文段落两端对齐（仅作用于本页容器） */
+  .sarah-page figcaption { text-align: center !important; }
+  .sarah-page p { text-align: justify; }
+  .sarah-page figure { margin: 1.5rem 0; }
+  .sarah-page img, .sarah-page video { max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
+</style>
+
+<div class="sarah-page">
 Sarah (Hallucination Detection for Large Vision Language Models with Semantic Information Locator and Purifier in Uncertainty Quantification Method) is a novel hallucination detection framework grounded in uncertainty quantification method. 
 
 <!-- ===== 多媒体展示：视频（含题注） ===== -->
 <figure style="margin: 1.5rem 0;">
-  <video controls preload="metadata" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);">
+  <video controls preload="metadata" loop style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);">
     <source src="/images/sarah_demo.mp4" type="video/mp4" />
     Your browser does not support the video tag.
   </video>
@@ -71,3 +80,5 @@ Analysis over LVLMs further exposes critical limitations: over 13.4% of outputs 
     Fig5. Hallucination rate of different LVLMs based on Sarah.
   </figcaption>
 </figure>
+
+</div>
