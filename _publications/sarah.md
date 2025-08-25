@@ -20,21 +20,18 @@ Sarah (Hallucination Detection for Large Vision Language Models with Semantic In
     Your browser does not support the video tag.
   </video>
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
-    Sarah Running on the Web
+    Fig1. Sarah Running on the Web
   </figcaption>
-  
 </figure>
 
 <!-- 正文占位（可替换为实际内容） -->
 Different from most existing uncertainty-based methods that utilize the variance of multi-round inference and need complex external tools, Sarah requires only single-round of inference result and minimal dependence on external tools, delving deeply into the value of the probability distribution. Considering uneven distribution of semantic information in both complete generation as well as possible outputs per-step, Semantic Information Locator and Purifier are proposed to enhance semantic collaboration and reduce semantic interference. 
 
-这里是一段正文内容（待定）。可在此处补充视频与图像之间的说明性文字，例如：对实验设置、可视化含义或用户交互流程的简要描述。
-
 <!-- ===== 多媒体展示：图片（含题注） ===== -->
 <figure style="margin: 1.5rem 0;">
   <img src="/images/总框架.png" alt="Sarah framework overview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
-    Fig1. Overview of the Sarah framework for hallucination detection in LVLMs.
+    Fig2. Overview of the Sarah framework for hallucination detection in LVLMs.
   </figcaption>
 </figure>
 
@@ -46,7 +43,7 @@ Our extensive experiments across 5 off-the-shelf LVLMs and 2 open-ended visual q
 <figure style="margin: 1.5rem 0;">
   <img src="/images/检测结果.png" alt="Detection Performance" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
-    Fig.2 Comparison with state-of-the-arts on free-form benchmark (MSCOCO-Cap and Bingo) for LVLMs hallucination detection. 
+    Fig.3 Comparison with state-of-the-arts on free-form benchmark (MSCOCO-Cap and Bingo) for LVLMs hallucination detection. 
   </figcaption>
 </figure>
 
@@ -58,6 +55,6 @@ It has also  significantly enhanced cost-effectiveness (requires only 1/25 of th
 <figure style="margin: 1.5rem 0;">
   <img src="/images/耗时对比.png" alt="Time Consume" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
-    Fig3. Resource consumption across diverse hallucination detection methods. This analysis evaluates whether a detection method requires (1) multi-round reasoning and (2) image inputs, both of which significantly affect GPU memory requirements. The actual iteration time for each method is also provided in the table.
+    Fig4. Resource consumption across diverse hallucination detection methods. This analysis evaluates whether a detection method requires (1) multi-round reasoning and (2) image inputs, both of which significantly affect GPU memory requirements. The actual iteration time for each method is also provided in the table.
   </figcaption>
 </figure>
