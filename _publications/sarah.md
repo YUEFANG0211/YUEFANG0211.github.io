@@ -2,7 +2,7 @@
 title: "Sarah: Hallucination Detection for Large Vision Language Models with Semantic Information Locator and Purifier in Uncertainty Quantification Method"
 collection: publications
 category: manuscripts
-permalink: /publication/sarah
+permalink: /publication/2025-10-01-sarah
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-10-01
 venue: 'IMAVIS'
