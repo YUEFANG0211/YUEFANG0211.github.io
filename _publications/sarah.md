@@ -14,9 +14,9 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 <style>
   /* 将本页题注统一居中，正文段落两端对齐（仅作用于本页容器） */
-  .sarah-page figcaption { text-align: center !important; }
   .sarah-page p { text-align: justify; }
-  .sarah-page figure { margin: 1.5rem 0; }
+  .sarah-page figure { margin: 1.5rem 0; text-align: center !important; display: grid !important; justify-items: center !important; }
+  .sarah-page figcaption { display: block !important; text-align: center !important; margin: 0.5rem auto 0 !important; justify-self: center !important; width: 100% !important; }
   .sarah-page img, .sarah-page video { max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12); }
 </style>
 
@@ -30,7 +30,7 @@ Sarah (Hallucination Detection for Large Vision Language Models with Semantic In
     Your browser does not support the video tag.
   </video>
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
-    Fig1. Sarah Running on the Web
+    Video. Sarah Running on the Web
   </figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Different from most existing uncertainty-based methods that utilize the variance
 <figure style="margin: 1.5rem 0;">
   <img src="/images/总框架.png" alt="Sarah framework overview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
-    Fig2. Overview of the Sarah framework for hallucination detection in LVLMs.
+    Fig1. Overview of the Sarah framework for hallucination detection in LVLMs.
   </figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Our extensive experiments across 5 off-the-shelf LVLMs and 2 open-ended visual q
 <figure style="margin: 1.5rem 0;">
   <img src="/images/检测结果.png" alt="Detection Performance" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
-    Fig.3 Comparison with state-of-the-arts on free-form benchmark (MSCOCO-Cap and Bingo) for LVLMs hallucination detection. 
+    Fig.2 Comparison with state-of-the-arts on free-form benchmark (MSCOCO-Cap and Bingo) for LVLMs hallucination detection. 
   </figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ It has also  significantly enhanced cost-effectiveness (requires only 1/25 of th
 <figure style="margin: 1.5rem 0;">
   <img src="/images/耗时对比.png" alt="Time Consume" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
-    Fig4. Resource consumption across diverse hallucination detection methods. This analysis evaluates whether a detection method requires (1) multi-round reasoning and (2) image inputs, both of which significantly affect GPU memory requirements. The actual iteration time for each method is also provided in the table.
+    Fig3. Resource consumption across diverse hallucination detection methods. This analysis evaluates whether a detection method requires (1) multi-round reasoning and (2) image inputs, both of which significantly affect GPU memory requirements. The actual iteration time for each method is also provided in the table.
   </figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ Analysis over LVLMs further exposes critical limitations: over 13.4% of outputs 
 <figure style="margin: 1.5rem 0;">
   <img src="/images/模型对比.png" alt="Time Consume" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);" />
   <figcaption style="text-align: center; color: #666; font-size: 0.95rem; margin-top: 0.5rem;">
-    Fig5. Hallucination rate of different LVLMs based on Sarah.
+    Fig4. Hallucination rate of different LVLMs based on Sarah.
   </figcaption>
 </figure>
 
