@@ -59,9 +59,9 @@ I have been fortunately interning and collaborating with:
 
 News
 ------
-[2025.07.27] One paper is under review by IMAVIS 2025!
+[2025.07.27] One paper is under review by IMAVIS 2026!
 <br>
-[2025.05.06] One patent is publicly released!
+[2025.05.06] One patent for incremental learning in Autonomus Driving is publicly released (ID:CN202411715425)!
 
 Publication
 ------
