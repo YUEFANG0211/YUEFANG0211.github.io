@@ -3,9 +3,9 @@ title: "Sarah: Hallucination Detection for Large Vision Language Models with Sem
 collection: publications
 category: manuscripts
 permalink: /publication/sarah
-redirect_from: /publication/2025-10-01-paper-title-number-1
+redirect_from: /publication/2026-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-10-01
+date: 2026-10-01
 venue: 'IMAVIS'
 slidesurl: 'http://yuefang0211.github.io/files/sarah_slide1.pdf'
 paperurl: 'http://yuefang0211.github.io/files/sarah1.pdf'
