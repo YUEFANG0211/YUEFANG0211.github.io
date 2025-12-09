@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Yue Fang (方悦), a first-year graduate student at the School of Cyber Science and Engineering, Southeast University advised by Zhang Jing.I have long been dedicated to research on **multimodal large language models (MLLMs)** and have engaged in multiple MLLM-related **autonomous driving** projects. Currently, I am interested in **the detection and mitigation of hallucinations in MLLMs**. 
+I am Yue Fang (方悦), a first-year graduate student at the School of Cyber Science and Engineering, Southeast University advised by Zhang Jing.I have long been dedicated to research on **multimodal large language models (MLLMs)** and have engaged in multiple MLLM-related **autonomous driving** projects. Currently, I am interested in **the detection and mitigation of hallucinations in LLM-based Multi-Agents System**. 
 <br>
 You can find my CV here: [Fang Yue](../assets/YueFang_CV.pdf)
 <br>
@@ -73,7 +73,7 @@ Publication
     <br>
     <strong>Fang Yue</strong>, Zhang Yang, Liu Yawen, Yu Yetian.
     <br>
-    IMAVIS2025 | <a href="https://github.com/YUEFANG0211/Sarah">code</a>
+    IMAVIS2026 | <a href="https://github.com/YUEFANG0211/Sarah">code</a>
   </div>
 </div>
 
